@@ -6,8 +6,8 @@ Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=gest01&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 
-- 🔭 I’m currently working on .NET, Azure, Kubernetes, Docker, Fedora
-
+- 🔭 I’m currently working on .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora
+- 💬 Ask me about Software Engineering / Architecture and Cloud Computing
 
 <!--
 **gest01/gest01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
