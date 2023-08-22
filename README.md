@@ -3,8 +3,6 @@ Hi there 👋
 </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gest01&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/gest01)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gest01&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gest01&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 
