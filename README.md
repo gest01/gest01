@@ -6,6 +6,7 @@ Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=gest01&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 
+- 🔭 I’m currently working on .NET, Azure, Kubernetes, Docker, Fedora
 
 
 <!--
