@@ -8,6 +8,8 @@ Hi there 👋
 
 - 🔭 I’m currently working on .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora
 - 💬 Ask me about Software Engineering / Architecture and Cloud Computing
+- 🌱 I’m currently learning Kubernetes and Azure
+
 
 <!--
 **gest01/gest01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
