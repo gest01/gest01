@@ -8,7 +8,8 @@ Hi there 👋
 
 - 🔭 I’m working with .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora
 - 💬 Ask me about Software Engineering / Architecture and Cloud Computing
-- 🌱 I’m always learning Kubernetes and Azure
+
+<!-- - 🌱 I’m always learning Kubernetes and Azure -->
 
 
 <!--
