@@ -6,9 +6,9 @@ Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=gest01&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 
-- 🔭 I’m currently working with .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora
+- 🔭 I’m working with .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora
 - 💬 Ask me about Software Engineering / Architecture and Cloud Computing
-- 🌱 I’m currently learning Kubernetes and Azure
+- 🌱 I’m always learning Kubernetes and Azure
 
 
 <!--
