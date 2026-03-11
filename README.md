@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working with .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora <br /> 
+🔭 I’m working with .NET, Linux, Angular, Azure, Kubernetes, Docker, Fedora, Bash, Powershell <br /> 
 💬 Ask me about Software Engineering / Architecture and Cloud Computing <br />
 🌱 I’m always learning Cyber Security
 
